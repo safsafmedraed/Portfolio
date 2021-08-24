@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name":"Safsaf Mohamed Raed ",
+    "description":"I am a web devoloper engineer \n\n When I was born, I did not cried but I shouted Hello World I love the development frontend because I want everything to be beautiful! I love the development of Backend because it allows me to keep the brain alive and in good shape.  I love computer and data science because it allows me to travel to an alternate world! This is me, welcome to my world! ",
+    "image":"profilepic.jpg",
+    "bio":"I am a Full stack js developer building websites and web applications. I specialize in JavaScript and have professional experience working with React js and Nodejs. I also have experience working with Vue, Angular",
+    "contactmessage":"Feel free to get in touch.",
+    "email": "safsafraed@gmail.com",
+    "phone": "(+216) 53 574 325",
+    "github":"https://github.com/safsafmedraed",
+    "project":"https://www.linkedin.com/in/mohamed-raed-safsaf-107558131/",
+    "address":{
+      "street":"Ain Zaghouen",
+      "city":"Kram",
+      "state":"Tunis",
+      "zip": "2045"
+    },
+    "website": "#",
+    "resumedownload":"",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohamed-raed-safsaf-107558131/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/safsafmedraed",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"ESPRIT",
+        "degree":"National diploma in computer engineering",
+        "graduated":"september 2021",
+        "description":""
+      },
+      {
+        "school":"Faculty of science Bizerta",
+        "degree":"Applied License in Information and Communication Sciences and Technologies",
+        "graduated":"June 2018",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Lyveat France",
+        "title":"Full stack js developer(Nodejs/Reactjs)",
+        "years":"February 2021 - July 2021",
+        "description":"Skills: nodejs ,react js , react native ,mongodb , JavaScript  -Improvement for the existing features(backend/frontend)  -Server side Live tracking implementation ( Radar.io )   -Edenred restaurant payment implementation     -Conversation feature between restaurants , riders , lyveat assistance (ably js)      -Write source code that is maintainable ,readable and usable by other developers"
+      },
+      {
+        "company":"Belkiff Startup",
+        "title":"FrontEnd Developer (ReactJs) Freelance ",
+        "years":"December 2020 - Febrary 2021",
+        "description":"-Improvement for the existing features -Developing new interfaces for social media network -implementation of Video Preview"
+      },
+      {
+        "company":"SFM Technologies in collaboration with ESPRIT",
+        "title":"Full-stack Developer ",
+        "years":"February 2020 - June 2020",
+        "description":"Web platform allowing the gamification of courses: • Each learner answers the questions asked during the course and gets points according to the speed of answer to the questions and the accuracy of the answer • Monitor the presence of learners at class sessions • Forum and instant chat• Cloud deployment  technologies: Node.js, react js , mongoDB, Express.js, node-cron,REST-API,Heroku Cloud platform ,socket.io ,JWT,Passport"
+      },
+      {
+        "company":"ESPRIT",
+        "title":"development of a platform for ESPRIT Graduation project interns",
+        "years":"September 2019 - January 2020",
+        "description":"This application allows the processing of end of studies projects within an engineering school, from the start of the internship to the end. it displays a complete dashboard which will serve as a decision-making tool to allow the school to update the study plans (for example: add or delete modules). technologies: Angular 7 , Rest API , JAVA EE ,SQL ,PostMan ,Wildfly 11,Maven, JSP ,Github"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"React Native",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }  
+    ]
+  }
+}
