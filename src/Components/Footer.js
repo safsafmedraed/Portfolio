@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class Footer extends Component {
+  
   render() {
 
     if(this.props.data){
@@ -19,7 +20,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Safsaf Raed</li>
+              <li>&copy; Copyright {new Date().getFullYear()} Safsaf Raed</li>
              
            </ul>
 
