@@ -53,25 +53,25 @@
         "company":"Lyveat France",
         "title":"Full stack js developer(Nodejs/Reactjs)",
         "years":"February 2021 - July 2021",
-        "description":"Skills: nodejs ,react js , react native ,mongodb , JavaScript  -Improvement for the existing features(backend/frontend)  -Server side Live tracking implementation ( Radar.io )   -Edenred restaurant payment implementation     -Conversation feature between restaurants , riders , lyveat assistance (ably js)      -Write source code that is maintainable ,readable and usable by other developers"
+        "description":"-Improvement for the existing features(backend/frontend) \n -Server side Live tracking implementation ( Radar.io )  \n -Edenred restaurant payment implementation    \n -Conversation feature between restaurants , riders , lyveat assistance (ably js)     \n -Write source code that is maintainable ,readable and usable by other developers \n Technologies: nodejs ,react js , react native ,mongodb , JavaScript"
       },
       {
         "company":"Belkiff Startup",
         "title":"FrontEnd Developer (ReactJs) Freelance ",
         "years":"December 2020 - Febrary 2021",
-        "description":"-Improvement for the existing features -Developing new interfaces for social media network -implementation of Video Preview"
+        "description":"-Improvement for the existing features\n -Developing new interfaces for social media network \n-Implementation of Video Preview"
       },
       {
         "company":"SFM Technologies in collaboration with ESPRIT",
         "title":"Full-stack Developer ",
         "years":"February 2020 - June 2020",
-        "description":"Web platform allowing the gamification of courses: • Each learner answers the questions asked during the course and gets points according to the speed of answer to the questions and the accuracy of the answer • Monitor the presence of learners at class sessions • Forum and instant chat• Cloud deployment  technologies: Node.js, react js , mongoDB, Express.js, node-cron,REST-API,Heroku Cloud platform ,socket.io ,JWT,Passport"
+        "description":"Web platform allowing the gamification of courses:\n • Each learner answers the questions asked during the course and gets points according to the speed of answer to the questions and the accuracy of the answer \n • Monitor the presence of learners at class sessions \n • Forum and instant chat \n • Deployment on heroku  \n Technologies: Node.js, react js , mongoDB, Express.js, node-cron,REST-API,Heroku Cloud platform ,socket.io ,JWT,Passport"
       },
       {
         "company":"ESPRIT",
         "title":"development of a platform for ESPRIT Graduation project interns",
         "years":"September 2019 - January 2020",
-        "description":"This application allows the processing of end of studies projects within an engineering school, from the start of the internship to the end. it displays a complete dashboard which will serve as a decision-making tool to allow the school to update the study plans (for example: add or delete modules). technologies: Angular 7 , Rest API , JAVA EE ,SQL ,PostMan ,Wildfly 11,Maven, JSP ,Github"
+        "description":"This application allows the processing of end of studies projects within an engineering school, from the start of the internship to the end. \n It displays a complete dashboard which will serve as a decision-making tool to allow the school to update the study plans (for example: add or delete modules). \n Technologies: Angular 7 , Rest API , JAVA EE ,SQL ,PostMan ,Wildfly 11,Maven, JSP ,Github"
       }
     ],
     "skills":[
