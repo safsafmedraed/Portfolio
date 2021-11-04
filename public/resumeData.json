@@ -53,7 +53,7 @@
         "company":"Lyveat France",
         "title":"Full stack js developer(Nodejs/Reactjs)",
         "years":"February 2021 - July 2021",
-        "description":"-Improvement for the existing features(backend/frontend) \n -Server side Live tracking implementation ( Radar.io )  \n -Edenred restaurant payment implementation    \n -Conversation feature between restaurants , riders , lyveat assistance (ably js)     \n -Write source code that is maintainable ,readable and usable by other developers \n Technologies: nodejs ,react js , react native ,mongodb , JavaScript"
+        "description":"-Improvement for the existing features(backend/frontend) \n -Server side Live tracking implementation ( Radar.io )  \n -Edenred restaurant payment implementation    \n -Conversation feature between restaurants , riders , lyveat assistance (ably js)     \n -Write source code that is maintainable ,readable and usable by other developers \n Technologies: nodejs ,react js , react native ,mongodb , JavaScript,Stripe ,Paygreen ,Edenred"
       },
       {
         "company":"Belkiff Startup",
