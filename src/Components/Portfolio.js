@@ -41,7 +41,7 @@ class Portfolio extends Component {
             </div>
             <div className="six columns main-col zoom">
               <img  src='/images/reactcert.PNG' alt='safsafReact' style={{ borderRadius: '2%' }} />
-            </div>
+            </div> 
           </div>
         </div>
       </section>
