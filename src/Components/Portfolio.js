@@ -28,12 +28,14 @@ class Portfolio extends Component {
     return (
       <section id="portfolio">
 
-        <div className="row">
-
+        <div className="row ">
+        <div className="three columns">
+            <h1><span>{"<Certifications />"}</span></h1>
+         </div>
           <div className="twelve columns collapsed">
-
+          
             <h1>Check Out Some of My Certifications.</h1>
-
+            
             <div className="six columns main-col zoom">
               <img  src='/images/bootstrapCert.PNG' alt='safsafBootstrap' style={{ borderRadius: '2%' }} />
             </div>
