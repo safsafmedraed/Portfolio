@@ -53,8 +53,9 @@ class Header extends Component {
          <header id="home">
             <Sound url={Mario}
                playStatus={this.state.playing ? Sound.status.PLAYING : Sound.status.STOPPED}
-               playFromPosition={1000}
+               playFromPosition={1200}
             />
+            {/*  <div className="psy"></div> */}
             <ParticlesBg type="cobweb" bg={true} color="#ff0000" />
             <nav id="nav-wrap">
                <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>

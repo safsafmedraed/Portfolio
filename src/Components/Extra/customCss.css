@@ -10,7 +10,7 @@
 
 
   .custombtn {
-    width: 10rem;
+    width: 12rem;
     line-height: 6.8rem;
     background: #fff;
     border-radius: 50%;
@@ -21,6 +21,7 @@
     padding: 0;
     position: relative;
     outline: none;
+  
   }
   
   .custombtn--wut.is-active {
@@ -240,4 +241,14 @@
   to {
     background-position: 200% center;
   }
+}
+.psy {
+	background: url(https://image.ibb.co/kRoDmV/psy.png) no-repeat;
+	width: 225px;
+	height: 400px;
+	position: fixed;
+	left: 50%;
+	margin-left: -91px;
+	bottom: 160px;
+	z-index: 99;
 }

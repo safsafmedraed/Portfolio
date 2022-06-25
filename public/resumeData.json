@@ -48,12 +48,17 @@
         "description":""
       }
     ],
-    "work":[
+    "work":[ {
+      "company":"Shipzzer",
+      "title":"Full stack js developer(Nodejs/Reactjs/GCP)",
+      "years":"December 2021 - Now",
+      "description":"-Usage of Google Cloud platform services such as compute, App Engine,  Cloud Storage,  databases, networking,  Stackdriver and the monitorig ,deployment of the infrastructure . \n-Improvement for the existing features(Backend/Frontend/Mobile) \n -Maintain the client plateform and mobile App \n -Devolepment of new features  \n Technologies: Nodejs ,React js , React native ,GCP , Expressjs"
+    },
       {
         "company":"Lyveat France",
         "title":"Full stack js developer(Nodejs/Reactjs)",
         "years":"February 2021 - July 2021",
-        "description":"-Improvement for the existing features(backend/frontend) \n -Server side Live tracking implementation ( Radar.io )  \n -Edenred restaurant payment implementation    \n -Conversation feature between restaurants , riders , lyveat assistance (ably js)     \n -Write source code that is maintainable ,readable and usable by other developers \n Technologies: nodejs ,react js , react native ,mongodb , JavaScript,Stripe ,Paygreen ,Edenred"
+        "description":"-Improvement for the existing features(backend/frontend) \n -Server side Live tracking implementation ( Radar.io )  \n -Edenred restaurant payment implementation    \n -Conversation feature between restaurants , riders , lyveat assistance (ably js)     \n -Write source code that is maintainable ,readable and usable by other developers \n Technologies: Nodejs ,React js , React native ,Mongodb , JavaScript,Stripe ,Paygreen ,Edenred"
       },
       {
         "company":"Belkiff Startup",
@@ -65,7 +70,7 @@
         "company":"SFM Technologies in collaboration with ESPRIT",
         "title":"Full-stack Developer ",
         "years":"February 2020 - June 2020",
-        "description":"Web platform allowing the gamification of courses:\n • Each learner answers the questions asked during the course and gets points according to the speed of answer to the questions and the accuracy of the answer \n • Monitor the presence of learners at class sessions \n • Forum and instant chat \n • Deployment on heroku  \n Technologies: Node.js, react js , mongoDB, Express.js, node-cron,REST-API,Heroku Cloud platform ,socket.io ,JWT,Passport"
+        "description":"Web platform allowing the gamification of courses:\n • Each learner answers the questions asked during the course and gets points according to the speed of answer to the questions and the accuracy of the answer \n • Monitor the presence of learners at class sessions \n • Forum and instant chat \n • Deployment on heroku  \n Technologies: Node.js, React js , MongoDB, Express.js, node-cron,REST-API,Heroku Cloud platform ,socket.io ,JWT,Passport"
       },
       {
         "company":"ESPRIT",
@@ -80,11 +85,15 @@
         "level":"90%"
       },
       {
+        "name":"React Native",
+        "level":"80%"
+      },
+      {
         "name":"NodeJS",
         "level":"80%"
       },
       {
-        "name":"MongoDB",
+        "name":"Google cloud plateform",
         "level":"75%"
       },
       {
@@ -95,10 +104,6 @@
       {
         "name":"CSS",
         "level":"90%"
-      },
-      {
-        "name":"React Native",
-        "level":"50%"
       },
       {
         "name":"JavaScript",
